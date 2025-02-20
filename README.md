@@ -12,12 +12,6 @@ I am currently brushing up my skills and plan to learn MongoDb and TNode.js.
 I am willing to work on free-lance projects and love to contribute to open source projects 💡
 Connect with me on LinkeDin 🎆https://www.linkedin.com/in/deepika018/🎇
 
-Skills:
-Programming Languages
-Android Kotlin Android_Studio
-Python Java JavaScript Typescript Jquery
-Firebase Google_Cloud Node.js MongoDB MySQL
-HTML CSS3 PHP
 
 
 <!---
