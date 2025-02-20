@@ -1,7 +1,7 @@
 
-- 👀 I’m interested in ...Data Science | Web Development | Java Development | Machine Learning...
+- 👀 I’m interested in ...Full Stack Development | Web Development | Java | Machine Learning...
 - 🌱 I’m currently learning ...Artificial Intelligence and Data Science & Java
-- 💞️ I’m looking to collaborate on ...Machine learning & Java Development & Web Development & Data Science related projects..
+- 💞️ I’m looking to collaborate on ...Full Stack  & Java Development & Web Development & Data Science related projects..
 - 📫 How to reach me ...mdeepika0408@gmail.com...
 
 
