@@ -1,9 +1,17 @@
+Hello There 👋
+I am DEEPIKA M😊 . Currently I am a third year student from St Joseph's College Of Engineering at Chennai in Artificial Intelligence and Data Science 📡
 
-- 👀 I’m interested in ...Full Stack Development | Web Development | Java | Machine Learning...
-- 🌱 I’m currently learning ...Artificial Intelligence and Data Science & Java
-- 💞️ I’m looking to collaborate on ...Full Stack  & Java Development & Web Development & Data Science related projects..
-- 📫 How to reach me ...mdeepika0408@gmail.com...
+I am a Web Developer Intern at @codeSpeedy  and Octanet 🧰  ✨.
 
+I have done multiple projects ranging from the field of Java, Front-End and Web Application 🗄️ .
+
+I am currently brushing up my skills and plan to learn MongoDb and TNode.js.
+
+I am willing to work on free-lance projects and love to contribute to open source projects 💡
+
+
+
+Connect with me on LinkeDin 🎆https://www.linkedin.com/in/deepika018/🎇
 
 
 <!---
